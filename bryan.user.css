@@ -1,14 +1,3 @@
-@name example site awesome dark
-@namespace *
-@version 1.0.0
-@description A UserCSS style to make people happy
-@author My Name <my-email@my-site.com> (http://my-site.com)
-@homepageURL https://github.com/octocat/Spoon-Knife
-@supportURL https://github.com/octocat/Spoon-Knife/issues
-
-@preprocessor default
-@var text  myFontSize        "Font size"        16px
-@var color myBackgroundColor "Background color" #0b0
 
 :root {
   --myFontSize: 16px;
